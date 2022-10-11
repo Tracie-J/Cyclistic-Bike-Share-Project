@@ -85,7 +85,8 @@ Completed initial general analysis using pivot table in excel.
 
 **Analysis:** 
 [SQL Analysis](https://github.com/Tracie-J/Cyclistic-Bike-Share-Project/blob/main/Cyclistic_Year2021_analysis.sql)
-Complete descriptive analysis using SQL. *All time is in minutes
+
+_*All time is in minutes_
 -	Find avg ride length, max, and min for all trips.
 -	Find avg ride length, max, and min for all trips by rider type. 
 -	Find number of riders by rider type.
@@ -116,6 +117,7 @@ Complete descriptive analysis using SQL. *All time is in minutes
 
 **Visualization:**
 Made via Tableau 
+
 [Cyclistic Visualization](https://public.tableau.com/app/profile/tracie.johnson/viz/DivvyBike_16653358873940/CyclisticBikeShareAnalysis)
 
 
