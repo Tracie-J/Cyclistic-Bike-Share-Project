@@ -122,7 +122,11 @@ Made via Tableau
 
 
 
+
+
+
 **Recommendations:** 
+
 1.	How do annual members and casual riders use Cyclistic bikes differently?
 Based on the data, on average, casual riders rent bikes for longer periods of time than members. The day of the week that they are more likely to rent bikes also differ greatly. Whereas members are more consistent and are more likely to rent bikes throughout the week, casual riders tend to rent bikes the most over the weekend. There’s a dip in the number of casual riders that rent between Monday and Friday and an increase in number of casual riders on Saturday and Sunday. This suggests that the two user groups use the bikes for different purposes. Members may be using their bikes for typical day to day activities. There’s an increase in rentals for both groups between the months of June and September, with July being the month that casual riders use the service the most.
 
