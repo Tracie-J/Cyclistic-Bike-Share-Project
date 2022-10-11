@@ -33,8 +33,8 @@ _*Again, please note that Cyclistic is a fictional Company name, and the data wi
 
 Data has been downloaded from this public data source on Divvy bike rides in Chicago over several years. It is made available by Motivate International Inc.
 
-**Data:** [https://divvy-tripdata.s3.amazonaws.com/index.html](url)
-**License:** [https://ride.divvybikes.com/data-license-agreement](url)
+[Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html)
+[License](https://ride.divvybikes.com/data-license-agreement)
 
 Data is added every month, however, as 2022 has not concluded yet I will be using the data from 2021 spanning January to December. The start time for the ride will determine which month the data is stored in therefore some trips may start on December 31st but does not end until January of the following year. Some information is personally identifiable and are therefore not provided.  
 
@@ -55,6 +55,8 @@ Data is added every month, however, as 2022 has not concluded yet I will be usin
 
 
 **SQL Cleaning**
+[Data Cleaning](https://github.com/Tracie-J/Cyclistic-Bike-Share-Project/blob/main/Cyclistic_Year2021_cleaning.sql)
+
 -	Alter column types so that: started_at, ended_at, and ride_length are datetime; start_lat, start lng, end_lat, and end_lng are float; and all other columns are nvarchar.
 -	Combine monthly tables into one yearly table.
 -	Create table Cyclistic_Year2021
@@ -81,6 +83,7 @@ Completed initial general analysis using pivot table in excel.
 
 
 **Analysis:** 
+[SQL Analysis](https://github.com/Tracie-J/Cyclistic-Bike-Share-Project/blob/main/Cyclistic_Year2021_analysis.sql)
 Complete descriptive analysis using SQL. *All time is in minutes
 -	Find avg ride length, max, and min for all trips.
 -	Find avg ride length, max, and min for all trips by rider type. 
@@ -112,7 +115,7 @@ Complete descriptive analysis using SQL. *All time is in minutes
 
 **Visualization:**
 Made via Tableau 
-[https://public.tableau.com/app/profile/tracie.johnson/viz/DivvyBike_16653358873940/CyclisticBikeShareAnalysis](url)
+[Cyclistic Visualization](https://public.tableau.com/app/profile/tracie.johnson/viz/DivvyBike_16653358873940/CyclisticBikeShareAnalysis)
 
 
 
