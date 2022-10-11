@@ -34,6 +34,7 @@ _*Again, please note that Cyclistic is a fictional Company name, and the data wi
 Data has been downloaded from this public data source on Divvy bike rides in Chicago over several years. It is made available by Motivate International Inc.
 
 [Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 [License](https://ride.divvybikes.com/data-license-agreement)
 
 Data is added every month, however, as 2022 has not concluded yet I will be using the data from 2021 spanning January to December. The start time for the ride will determine which month the data is stored in therefore some trips may start on December 31st but does not end until January of the following year. Some information is personally identifiable and are therefore not provided.  
