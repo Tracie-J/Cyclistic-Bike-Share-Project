@@ -128,10 +128,13 @@ Made via Tableau
 **Recommendations:** 
 
 1.	How do annual members and casual riders use Cyclistic bikes differently?
+
 Based on the data, on average, casual riders rent bikes for longer periods of time than members. The day of the week that they are more likely to rent bikes also differ greatly. Whereas members are more consistent and are more likely to rent bikes throughout the week, casual riders tend to rent bikes the most over the weekend. There’s a dip in the number of casual riders that rent between Monday and Friday and an increase in number of casual riders on Saturday and Sunday. This suggests that the two user groups use the bikes for different purposes. Members may be using their bikes for typical day to day activities. There’s an increase in rentals for both groups between the months of June and September, with July being the month that casual riders use the service the most.
 
 2.	Why would casual riders convert to annual memberships?
+
 Casual riders may convert to annual memberships because they are already using the service for longer periods of time when they do rent bikes, and they are using the service more often on weekends and throughout the warmer months. This group of riders may be more likely to convert to a membership during the times that they are already using the service the most. 
 
-3.	How can Cysclistic use digital media to influence casual riders to become members.
+3.	How can Cysclistic use digital media to influence casual riders to become members?
+
 Cyclistic can influence casual riders to convert to memberships by strategically advertising to those riders during the peak times throughout the week and throughout the year. Increasing advertisement on various social media platforms and/or running sales for yearly memberships during those times will increase the likelihood of them seeing the ads/sales when they are already likely to rent. 
